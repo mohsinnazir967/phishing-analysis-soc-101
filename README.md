@@ -1,4 +1,3 @@
-cat > /home/claude/phishing-repo/README.md << 'EOF'
 # 🎣 Phishing Analysis — SOC 101 (TCM Security)
 
 > A complete, hands-on phishing analysis reference built from the TCM Security SOC 101 curriculum. Covers email investigation methodology, header analysis, URL and attachment analysis, defense strategies, and documentation — using only Ubuntu Linux with Firefox and a text editor.
