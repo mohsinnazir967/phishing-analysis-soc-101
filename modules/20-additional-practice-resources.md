@@ -158,21 +158,4 @@ Use this structure each time you practice with a new sample:
    → Note what defensive actions would be taken
 ```
 
----
-
-## Continuing Your Blue Team Journey
-
-Once you have completed this phishing analysis section, the following areas build naturally on these skills:
-
-| Topic | Resource |
-|---|---|
-| SIEM & Log Analysis | TCM Security SOC 101 — SIM Domain |
-| Network Traffic Analysis | TCM Security SOC 101 — Network Security Domain |
-| Threat Intelligence | TCM Security SOC 101 — Threat Intelligence Domain |
-| Malware Analysis (deeper) | TCM Security — Practical Malware Analysis & Triage |
-| KQL Threat Hunting | KC7 Security Analyst Programme |
-| Microsoft Sentinel | Microsoft Learn SC-200 path |
-
----
-
 *← [19 — Documentation & Reporting](./19-documentation-and-reporting.md) | [Back to README →](../README.md)*
