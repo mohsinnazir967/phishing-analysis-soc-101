@@ -38,7 +38,6 @@ All analysis in this section is performed on **Ubuntu Linux** using:
 ```
 phishing-analysis-soc-101/
 ├── README.md
-├── .gitignore
 ├── docs/
 │   ├── email-analysis-methodology.md    ← Full 7-step investigation methodology
 │   ├── report-template.md               ← Copy-paste investigation report template
